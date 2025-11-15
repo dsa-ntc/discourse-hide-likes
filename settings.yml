@@ -1,0 +1,5 @@
+# settings.yml
+hide_likes_user_field_id:
+  type: string
+  description: "Enter the numeric ID of the Custom User Field used to toggle likes."
+  default: ""
