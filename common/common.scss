@@ -1,0 +1,17 @@
+.hide-likes-enabled {
+    .reactions-counter {
+        visibility: hidden;
+    }
+}
+
+.hide-likes-enabled {
+    .discourse-reactions-list {
+        visibility: hidden;
+    }
+}
+
+.hide-likes-enabled {
+    .discourse-reactions-state-panel-reaction {
+        visibility: hidden;
+    }
+}
